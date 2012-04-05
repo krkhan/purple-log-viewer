@@ -1,0 +1,6 @@
+                               Purple Log Viewer
+
+An external log viewer for purple logs. Looks for logs under the home directory
+of user and displays a hierarchical tree in which logs for a particular buddy
+can be found by typing his/her contact ID in the search box.
+
